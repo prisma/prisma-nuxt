@@ -15,6 +15,6 @@
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
-    "@prisma/cli": "2.16.0"
+    "prisma": "2.16.0"
   }
 }
