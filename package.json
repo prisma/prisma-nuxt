@@ -9,13 +9,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.12.5",
-    "@prisma/client": "2.15.0",
+    "@prisma/client": "2.16.0",
     "core-js": "^3.8.3",
     "express": "^4.17.1",
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
-    "@prisma/cli": "2.15.0"
+    "@prisma/cli": "2.16.0"
   }
 }
